@@ -1,0 +1,14 @@
+[VARIABLES]
+
+[PREFERENCES]
+LayerOrder=0
+
+[LAYER]
+;<LayerNo>=<Name>,<Border>,<Fill>,<Pattern>,<Order>,<Usable>,<Active>,<Thickness>,<Connections>
+0=Electrode,1,1,0,0,1,1,1000,
+1=Sample,12,1,0,3,1,1,1000,
+2=BAK,53,2,0,2,1,1,1000,
+3=Top Gate,33,12,0,4,1,1,1000,
+4=Mask Etching,3,12,0,5,1,1,1000,
+61=Automatic marks,2,2,0,1,1,1,1000,
+63=Manual marks,4,4,0,63,1,1,1000,
